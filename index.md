@@ -5,3 +5,8 @@
 ### This is an H3 Header
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
+```md
+```javascript
+var myVar = "Hello, world!";
+console.log(myVar);
